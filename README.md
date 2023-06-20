@@ -16,6 +16,8 @@ Resumaker is an NLP (Natural Language Processing) project developed by Helix Haw
 
 git clone https://github.com/helixhawks/resumaker.git
 
+pip install -r requirements.txt
+
 
 ## License
 
