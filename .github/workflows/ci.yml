@@ -24,7 +24,6 @@ jobs:
           pip install -r requirements.txt
           pip install flake8
 
-      - name: Run static code analysis
-        run: |
-          flake8 --ignore=E501 .
+      - name: Run Flake8
+        run: flake8 --select=E,F,W .
 
