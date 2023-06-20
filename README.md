@@ -2,7 +2,7 @@
 
 
 
-Resumaker is an NLP (Natural Language Processing) project developed by Helix Hawks. We're part of a group from [AI Camp]((https://www.ai-camp.org/))
+Resumaker is an NLP (Natural Language Processing) project developed by Helix Hawks. We're part of a group from [AI Camp](https://www.ai-camp.org/)
 that has students make AI products in three weeks.
 
 ## Features
